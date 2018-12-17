@@ -5,4 +5,7 @@ public class Demo01 {
         System.out.println("idea git");
         System.out.println("hello git");
     }
+    public void branch(){
+        System.out.println("idea master");
+    }
 }
