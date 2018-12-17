@@ -5,4 +5,9 @@ public class Demo01 {
         System.out.println("idea git");
         System.out.println("hello git");
     }
+
+    public static void Branch(){
+        System.out.println(" dev1 branch");
+    }
+
 }
