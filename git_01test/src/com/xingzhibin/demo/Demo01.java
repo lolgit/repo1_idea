@@ -7,5 +7,6 @@ public class Demo01 {
     }
     public void branch(){
         System.out.println("idea master");
+        System.out.println("++++++++++++++");
     }
 }
