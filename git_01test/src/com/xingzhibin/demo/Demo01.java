@@ -8,7 +8,6 @@ public class Demo01 {
 
     public static void branch(){
         System.out.println(" dev1 branch");
-        System.out.println("idea master");
     }
 
 }
